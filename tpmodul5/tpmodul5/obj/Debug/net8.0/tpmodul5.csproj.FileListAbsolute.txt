@@ -1,0 +1,14 @@
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\tpmodul5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\tpmodul5.AssemblyInfoInputs.cache
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\tpmodul5.AssemblyInfo.cs
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\tpmodul5.csproj.CoreCompileInputs.cache
+D:\PraktikumKPL\tpmodul5\tpmodul5\bin\Debug\net8.0\tpmodul5.exe
+D:\PraktikumKPL\tpmodul5\tpmodul5\bin\Debug\net8.0\tpmodul5.deps.json
+D:\PraktikumKPL\tpmodul5\tpmodul5\bin\Debug\net8.0\tpmodul5.runtimeconfig.json
+D:\PraktikumKPL\tpmodul5\tpmodul5\bin\Debug\net8.0\tpmodul5.dll
+D:\PraktikumKPL\tpmodul5\tpmodul5\bin\Debug\net8.0\tpmodul5.pdb
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\tpmodul5.dll
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\refint\tpmodul5.dll
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\tpmodul5.pdb
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\tpmodul5.genruntimeconfig.cache
+D:\PraktikumKPL\tpmodul5\tpmodul5\obj\Debug\net8.0\ref\tpmodul5.dll
